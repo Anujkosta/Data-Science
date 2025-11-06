@@ -1,4 +1,4 @@
-# EduCheck - IPL Data Science (Repo)
+#IPL Data Science (Repo)
 
 This repository contains code to process, analyze, and extract insights from IPL match & delivery datasets.
 
@@ -10,6 +10,7 @@ This repository contains code to process, analyze, and extract insights from IPL
 - Feature engineering (scaling, encoding, derived features)
 - PCA and SVD for dimensionality reduction
 - Hypothesis testing (chi-square example)
+
 
 **Quick Start**
 1. Clone the repo
