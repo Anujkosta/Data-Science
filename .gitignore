@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+*.sqlite
+data/raw/*
+data/processed/*
+*.zip
+.ipynb_checkpoints/
