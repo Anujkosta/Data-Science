@@ -1,15 +1,14 @@
-#IPL Data Science (Repo)
+📊 IPL Data Science (Repo)
+This repository contains code to process, analyze, and extract insights from IPL match and delivery datasets.
 
-This repository contains code to process, analyze, and extract insights from IPL match & delivery datasets.
-
-**Features**
-- Data extraction from a zipped archive
-- Data cleaning and standardization
-- Integration (merging matches & deliveries)
-- Exploratory Data Analysis (descriptive stats)
-- Feature engineering (scaling, encoding, derived features)
-- PCA and SVD for dimensionality reduction
-- Hypothesis testing (chi-square example)
+🚀 Features
+📦 Data extraction from a zipped archive
+🧹 Data cleaning and standardization
+🔗 Integration (merging matches & deliveries)
+📈 Exploratory Data Analysis (descriptive stats)
+🛠️ Feature engineering (scaling, encoding, derived features)
+🔍 Dimensionality reduction using PCA and SVD
+🧪 Hypothesis testing (chi-square example)
 
 
 **Quick Start**
@@ -32,10 +31,14 @@ This repository contains code to process, analyze, and extract insights from IPL
    python src/pca_svd.py
    ```
 
-**Files**
-- `src/` : modular scripts
-- `data/` : raw and processed datasets
-- `reports/` : generated outputs and visualizations
+📁 Repository Structure
+src/ : Modular scripts for each processing step
+data/ : Raw and processed datasets
+reports/ : Generated outputs and visualizations
+docs/ : 📄 Includes uploaded PDF with code and output snapshots for reference
 
-**License**
-MIT
+📄 Documentation
+A PDF containing the full codebase and sample outputs has been uploaded for reference. It provides a walkthrough of each module and its results, useful for understanding the pipeline and verifying outputs.
+
+📜 License
+This project is licensed under the MIT License.
